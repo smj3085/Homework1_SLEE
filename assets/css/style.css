@@ -80,7 +80,7 @@ p {
 }
 
 /* Changed order of code according to layout of site*/
-/* Grouped selectors together */
+/* Grouped selectors together.*/
 .content section {
     margin-bottom: 20px;
     padding: 50px;
