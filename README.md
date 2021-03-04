@@ -3,12 +3,17 @@
 
 ## Week 1 homework
 
-* Refactoring existing code to make it more accessible 
+# Description
+* Refactoring existing code of a website to make it more accessible. 
+
+# Table of contents
+* GitHub repo URL
+* Screenshot
 
 # My GitHub repository URL
 https://smj3085.github.io/Homework1_SLEE/
 
-# screenshot
+# Screenshot
 ![picture](./assets/images/Horiseon_SLEE.png)
 
 
